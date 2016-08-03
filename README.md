@@ -8,10 +8,10 @@ Junior.
 
 <b>2 - Requisitos</b></br>
 O currículo deve cumprir com alguns requisitos, como:
-Dados pessoais e foto;
-Objetivo;
-Formação acadêmica;
-Experiências profissionais;
-Habilidades.
+<li>Dados pessoais e foto;
+<li>Objetivo;
+<li>Formação acadêmica;
+<li>Experiências profissionais;
+<li>Habilidades.
 
 
