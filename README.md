@@ -1,4 +1,4 @@
-# curriculo-compjunior
+# Currículo Pessoal - CompJunior
 <b>Currículo pessoal desenvolvido em HTML e CSS como requisito para o processo de Trainee na empresa CompJunior.</b></br>
 
 <b>1 - Objetivo</b></br>
